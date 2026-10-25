@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Yekun</string>
+
+    <!--    content descriptions    -->
+    <string name="cd_selected_chat_image">चयनित चैट चित्र</string>
+    <string name="cd_send_button">भेजें बटन</string>
+    <string name="cd_add_button">जोड़ें बटन</string>
+    <string name="cd_sent_image">भेजी गई चित्र</string>
+    <string name="cd_media_main_picture">मीडिया मुख्य चित्र</string>
+    <string name="cd_anime_character_picture">एनिमे कैरेक्टर चित्र</string>
+    <string name="cd_anime_character_placeholder">एनिमे कैरेक्टर प्लेसहोल्डर</string>
+    <string name="cd_media_placeholder">एनिमे प्लेसहोल्डर</string>
+    <string name="cd_media_picture">मीडिया चित्र</string>
+    <string name="cd_profile_image">प्रोफ़ाइल चित्र</string>
+    <string name="cd_profile_placeholder">प्रोफ़ाइल प्लेसहोल्डर</string>
+    <string name="cd_id_icon">आईडी आइकन</string>
+    <string name="cd_on_boarding_image">ऑन बोर्डिंग चित्र</string>
+    <string name="cd_status_icon">स्थिति आइकन</string>
+    <string name="cd_media_type_icon">मीडिया प्रकार आइकन</string>
+    <string name="cd_mean_score_icon">मानक स्कोर आइकन</string>
+    <string name="cd_share_icon">शेयर आइकन</string>
+    <string name="cd_share_qr">क्यूआर कोड शेयर करें</string>
+    <string name="cd_copy_icon">कॉपी आइकन</string>
+    <string name="cd_close_icon">बंद करें आइकन</string>
+    <string name="cd_open_in_browser_icon">ब्राउज़र में खोलें आइकन</string>
+    <string name="cd_forward_icon">आगे बढ़ें आइकन</string>
+    <string name="cd_title_icon">शीर्षक आइकन</string>
+    <string name="cd_done_icon">पूर्ण आइकन</string>
+    <string name="cd_date_range_icon">तिथि सीमा आइकन</string>
+    <string name="cd_timelapse_icon">समय-लाप आइकन</string>
+    <string name="cd_scoreboard_icon">स्कोर बोर्ड आइकन</string>
+    <string name="cd_play_icon">प्ले आइकन</string>
+    <string name="cd_repeat_icon">दोहराएँ आइकन</string>
+    <string name="cd_selected_status_icon">चयनित स्थिति आइकन</string>
+    <string name="cd_down_icon">नीचे आइकन</string>
+    <string name="cd_star_icon">स्टार आइकन</string>
+    <string name="cd_heart_icon">ह्रदय आइकन</string>
+    <string name="cd_language_icon">भाषा आइकन</string>
+    <string name="cd_theme_icon">थीम आइकन</string>
+    <string name="cd_discord_icon">डिस्कॉर्ड आइकन</string>
+    <string name="cd_instagram_icon">इंस्टाग्राम आइकन</string>
+    <string name="cd_code_icon">कोड आइकन</string>
+    <string name="cd_app_icon">ऐप आइकन</string>
+    <string name="cd_version_icon">संस्करण आइकन</string>
+    <string name="cd_nsfw_icon">एनएसएफडब्ल्यू आइकन</string>
+    <string name="cd_music_icon">संगीत आइकन</string>
+    <string name="cd_send_feedback_icon">प्रतिक्रिया भेजें आइकन</string>
+    <string name="cd_about_icon">के बारे में आइकन</string>
+    <string name="cd_log_out_icon">लॉग आउट आइकन</string>
+    <string name="cd_login_icon">लॉगिन आइकन</string>
+    <string name="cd_announcement_icon">घोषणा आइकन</string>
+    <string name="cd_news_icon">समाचार आइकन</string>
+    <string name="cd_book_icon">पुस्तक आइकन</string>
+    <string name="cd_cake_icon">केक आइकन</string>
+    <string name="cd_person_icon">व्यक्ति आइकन</string>
+    <string name="cd_location_icon">स्थान आइकन</string>
+    <string name="cd_exit_icon">निकास आइकन</string>
+    <string name="cd_back_icon">वापस जाएं आइकन</string>
+    <string name="cd_search_icon">खोज आइकन</string>
+    <string name="cd_ai_icon">ए.आई. आइकन</string>
+    <string name="cd_filter_icon">फ़िल्टर आइकन</string>
+    <string name="cd_settings_icon">सेटिंग्स आइकन</string>
+    <string name="cd_season_chart_icon">मौसम चार्ट आइकन</string>
+    <string name="cd_season_icon">मौसम आइकन</string>
+    <string name="cd_anime_icon">एनिमे आइकन</string>
+    <string name="cd_manga_icon">मांगा आइकन</string>
+    <string name="cd_bottom_navigation_icon">निचली नेविगेशन आइकन</string>
+    <string name="cd_refresh_icon">ताज़ा करें आइकन</string>
+    <string name="cd_bin_icon">बिन आइकन</string>
+    <string name="cd_people_icon">लोग आइकन</string>
+
+
+    <!--                   SCREENS                 -->
+
+    <!--    settings    -->
+    <string name="theme_system">सिस्टम का पालन करें</string>
+    <string name="english_native" translatable="false">English</string>
+    <string name="azerbaijani_native" translatable="false">Azərbaycanca</string>
+    <string name="hindi_native" translatable="false">हिंदी</string>
+    <string name="japanese_native" translatable="false">日本語</string>
+    <string name="portuguese_native" translatable="false">Português</string>
+    <string name="spanish_native" translatable="false">Español</string>
+    <string name="russian_native" translatable="false">Русский</string>
+    <string name="turkish_native" translatable="false">Türkçe</string>
+    <string name="korean_native" translatable="false">한국어</string>
+    <string name="theme_light">प्रकाश</string>
+    <string name="theme_dark">अंधेरा</string>
+    <string name="theme">थीम</string>
+    <string name="language">भाषा</string>
+    <string name="coming_soon">जल्द आ रहा है…</string>
+    <string name="nsfw_title">NSFW सामग्री दिखाएं</string>
+    <string name="nsfw_subtitle">मैं 18 साल से अधिक हूं</string>
+    <string name="sound_on_click">क्लिक पर ध्वनि</string>
+    <string name="activate_sound_on_ai_send_button_click">AI भेजने बटन क्लिक पर ध्वनि सक्रिय करें</string>
+
+
+    <!--    about   -->
+    <string name="discord" translatable="false">Discord</string>
+    <string name="instagram" translatable="false">Instagram</string>
+    <string name="version">संस्करण</string>
+    <string name="developed_by">विकसित करने वाला</string>
+    <string name="oolyvi" translatable="false">oolyvi</string>
+
+
+    <!--    more    -->
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="login">लॉगिन</string>
+    <string name="login_subtitle">आप सभी विशेषताओं का उपयोग करने के लिए लॉगिन कर सकते हैं</string>
+    <string name="anime_manga_news"><![CDATA[एनिमे और मांगा समाचार]]></string>
+    <string name="myanimelist_announcements">MyAnimeList घोषणाएँ</string>
+    <string name="rate_app">ऐप को मूल्यांकन दें</string>
+    <string name="send_feedback">प्रतिक्रिया भेजें</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="about">के बारे में</string>
+    <string name="log_out">लॉग आउट</string>
+    <string name="log_out_subtitle">क्या आप लॉग आउट करना चाहते हैं?</string>
+    <string name="log_out_description">आप Yekun से लॉग आउट हो जाएंगे, MAL से नहीं</string>
+    <string name="yes">हां</string>
+    <string name="no">नहीं</string>
+    <string name="credits">क्रेडिट</string>
+    <string name="some_collaborations">कुछ सहयोग</string>
+
+
+    <!--    credits     -->
+    <string name="special_thanks">विशेष धन्यवाद!</string>
+    <string name="myanimelist_api_help">MyAnimeList API सहायता</string>
+    <string name="logo_design">लोगो डिज़ाइन</string>
+    <string name="translations">अनुवाद</string>
+    <string name="testers">परीक्षक</string>
+    <string name="azerbaijani">अज़रबैजानी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="korean">कोरियाई</string>
+    <string name="japanese_">जापानी</string>
+    <string name="portuguese_portugal">पुर्तगाली (पुर्तगाल)</string>
+    <string name="russian_russia">रूसी (रूस)</string>
+    <string name="spanish">स्पेनिश</string>
+    <string name="turkish">तुर्की</string>
+
+
+    <!--    gemini ai   -->
+    <string name="prompt">प्रॉम्प्ट</string>
+    <string name="copied">कॉपी की गई</string>
+    <string name="copy">कॉपी</string>
+    <string name="share">साझा करें</string>
+    <string name="gemini_ai" translatable="false">Gemini AI</string>
+    <string name="ai">ए.आई.</string>
+    <string name="you">आप</string>
+
+
+    <!--    home    -->
+    <string name="seasonal_chart">मौसमी चार्ट</string>
+    <string name="anime_ranking">एनिमे रैंकिंग</string>
+    <string name="manga_ranking">मांगा रैंकिंग</string>
+    <string name="search">खोज</string>
+    <string name="top_anime">शीर्ष एनिमे</string>
+    <string name="top_manga">शीर्ष मांगा</string>
+    <string name="for_you">आपके लिए</string>
+
+
+    <!--    edit user list  -->
+    <string name="ok">ठीक है</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="episodes">एपिसोड</string>
+    <string name="score">स्कोर: %1$s</string>
+    <string name="priority">प्राथमिकता: %1$s</string>
+    <string name="rewatching">फिरसे देख रहे हैं</string>
+    <string name="total_rewatches">कुल फिरसे देखे गए</string>
+    <string name="rewatch_value">फिर से देखने का मूल्य: %1$s</string>
+    <string name="tags">टैग</string>
+    <string name="notes">नोट्स</string>
+    <string name="delete_dialog_title">क्या आप इस प्रविष्टि को हटाना चाहते हैं?</string>
+    <string name="chapters">अध्याय</string>
+    <string name="volumes">मात्रा</string>
+    <string name="rereading">फिरसे पढ़ रहे हैं</string>
+    <string name="total_rereads">कुल फिर से पढ़े गए</string>
+    <string name="reread_value">फिर से पढ़ने का मूल्य: %1$s</string>
+
+
+    <!--    composable     -->
+    <string name="add_to_list">सूची में जोड़ें</string>
+    <string name="looks_like_something_went_wrong">लगता है कुछ गलत हो गया है!</string>
+    <string name="there_is_nothing_to_show">दिखाने के लिए कुछ नहीं है!</string>
+    <string name="please_search">कृपया खोजें!</string>
+    <string name="please_try_again">कृपया पुनः प्रयास करें!</string>
+    <string name="music">संगीत</string>
+    <string name="ona">ओएनए</string>
+    <string name="special">विशेष</string>
+    <string name="movie">फिल्म</string>
+    <string name="ova">ओवीए</string>
+    <string name="tv">टीवी</string>
+    <string name="oel">ओईएल</string>
+    <string name="manhua">मन्हुआ</string>
+    <string name="manhwa">मन्ह्वा</string>
+    <string name="doujinshi">डोजिंशी</string>
+    <string name="one_shot">वन शॉट</string>
+    <string name="novel">उपन्यास</string>
+    <string name="login_subtitle_2">सभी सुविधाएँ देखने के लिए कृपया लॉगिन करें</string>
+    <string name="save">सुरक्षित करें</string>
+    <string name="anime_list">एनीमे सूची</string>
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="manga_list">मांगा सूची</string>
+    <string name="more">और</string>
+    <string name="unknown">अज्ञात</string>
+    <string name="finished">समाप्त</string>
+    <string name="airing">प्रसारित हो रहा है</string>
+    <string name="not_aired_yet">अभी तक प्रसारित नहीं हुआ</string>
+    <string name="other">अन्य</string>
+    <string name="original">मूल</string>
+    <string name="_4_koma_manga">4 कोमा मांगा</string>
+    <string name="web_manga">वेब मांगा</string>
+    <string name="digital_manga">डिजिटल मांगा</string>
+    <string name="light_novel">लाइट नॉवेल</string>
+    <string name="visual_novel">विज़ुअल नॉवेल</string>
+    <string name="game">खेल</string>
+    <string name="card_game">कार्ड गेम</string>
+    <string name="book">किताब</string>
+    <string name="picture_book">चित्र पुस्तक</string>
+    <string name="radio">रेडियो</string>
+    <string name="low">कम</string>
+    <string name="medium">मध्यम</string>
+    <string name="high">उच्च</string>
+    <string name="very_low">बहुत कम</string>
+    <string name="very_high">बहुत उच्च</string>
+    <string name="top_all">सर्वश्रेष्ठ सभी</string>
+    <string name="top_airings">सर्वश्रेष्ठ प्रसारण</string>
+    <string name="top_upcomings">सर्वश्रेष्ठ आगामी</string>
+    <string name="top_tvs">सर्वश्रेष्ठ टीवी</string>
+    <string name="top_ovas">सर्वश्रेष्ठ ओवीए</string>
+    <string name="top_movies">सर्वश्रेष्ठ फिल्में</string>
+    <string name="top_specials">सर्वश्रेष्ठ विशेष</string>
+    <string name="top_populars">सर्वश्रेष्ठ लोकप्रिय</string>
+    <string name="top_favorites">सर्वश्रेष्ठ पसंदीदा</string>
+    <string name="all">सभी</string>
+    <string name="airings">प्रसारण</string>
+    <string name="upcomings">आगामी</string>
+    <string name="tvs">टीवी</string>
+    <string name="ovas">ओवीए</string>
+    <string name="movies">फिल्में</string>
+    <string name="specials">विशेष</string>
+    <string name="populars">लोकप्रिय</string>
+    <string name="favorites">पसंदीदा</string>
+    <string name="publishing">प्रकाशन</string>
+    <string name="not_published_yet">अभी तक प्रकाशित नहीं हुआ</string>
+    <string name="top_mangas">सर्वश्रेष्ठ मांगा</string>
+    <string name="top_novels">सर्वश्रेष्ठ उपन्यास</string>
+    <string name="top_one_shots">सर्वश्रेष्ठ वन शॉट्स</string>
+    <string name="top_doujins">सर्वश्रेष्ठ डोजिंस</string>
+    <string name="top_manhwas">सर्वश्रेष्ठ मन्ह्वा</string>
+    <string name="top_manhuas">सर्वश्रेष्ठ मन्हुआ</string>
+    <string name="mangas">मांगा</string>
+    <string name="novels">उपन्यास</string>
+    <string name="one_shots">वन शॉट्स</string>
+    <string name="doujins">डोजिंस</string>
+    <string name="manhwas">मन्ह्वा</string>
+    <string name="manhuas">मन्हुआ</string>
+
+
+    <!--    anime $ manga list  -->
+    <string name="title">शीर्षक</string>
+    <string name="last_updated">अंतिम अपडेट</string>
+    <string name="start_date">प्रारंभ तिथि</string>
+
+
+    <!--    onboarding  -->
+    <string name="onboarding_title_1">स्वागत है, आपको यहां देखकर खुशी हुई!</string>
+    <string name="onboarding_subtitle_1">आप येकुन के साथ अपनी सूची देख सकते हैं और अपडेट कर सकते
+        हैं।</string>
+    <string name="onboarding_title_2">एआई-संचालित</string>
+    <string name="onboarding_subtitle_2">आप जेमिनी एआई के साथ अपने अनुभव को और भी बेहतर बना सकते
+        हैं।</string>
+    <string name="onboarding_title_3">एनीमे और मांगा ब्रह्मांड की खोज करें</string>
+    <string name="onboarding_subtitle_3">आराम करें, बटन पर क्लिक करें और एप्लिकेशन का आनंद लें ;)</string>
+    <string name="let_s_start">चलो शुरू करें</string>
+
+
+    <!--    profile     -->
+    <string name="edit">संपादित करें</string>
+    <string name="total">कुल</string>
+    <string name="anime_stats">एनीमे आँकड़े</string>
+    <string name="manga_stats">मांगा आँकड़े</string>
+    <string name="share_mal_profile">एमएएल प्रोफाइल साझा करें</string>
+    <string name="watching">देख रहे हैं</string>
+    <string name="completed">पूरा हुआ</string>
+    <string name="on_hold">रुका हुआ</string>
+    <string name="dropped">छोड़ दिया</string>
+    <string name="plan_to_watch">देखने की योजना</string>
+    <string name="days">दिन</string>
+    <string name="mean_score">औसत स्कोर</string>
+    <string name="rewatched">फिर से देखा</string>
+    <string name="anime">एनीमे</string>
+    <string name="manga">मांगा</string>
+    <string name="reading">पढ़ रहे हैं</string>
+    <string name="plan_to_read">पढ़ने की योजना</string>
+    <string name="rereads">फिर से पढ़ना</string>
+
+
+    <!--    season chart    -->
+    <string name="season">मौसम</string>
+    <string name="year">साल</string>
+    <string name="sort_by">सॉर्ट करें</string>
+    <string name="members_count">सदस्य संख्या</string>
+    <string name="score_season_chart">स्कोर</string>
+    <string name="winter">सर्दी</string>
+    <string name="spring">वसंत</string>
+    <string name="summer">गर्मी</string>
+    <string name="fall">पतझड़</string>
+
+
+    <!--    anime & manga detail    -->
+    <string name="characters">चरित्र</string>
+    <string name="info">जानकारी</string>
+    <string name="rank">रैंक</string>
+    <string name="popularity">लोकप्रियता</string>
+    <string name="scoring_users">स्कोरिंग उपयोगकर्ता</string>
+    <string name="list_users">सूची उपयोगकर्ता</string>
+    <string name="synonyms">समानार्थी</string>
+    <string name="japanese">जापानी</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="end_date">अंतिम तिथि</string>
+    <string name="broadcast">प्रसारण</string>
+    <string name="duration">अवधि</string>
+    <string name="source">स्रोत</string>
+    <string name="studios">स्टूडियोज़</string>
+    <string name="episodes_count">एपिसोड की संख्या</string>
+    <string name="synopsis">सारांश</string>
+    <string name="themes">विषय</string>
+    <string name="openings">प्रारंभ</string>
+    <string name="endings">समापन</string>
+    <string name="recommended">अनुशंसित</string>
+    <string name="related">संबंधित</string>
+    <string name="serialization">सिरियलाइजेशन</string>
+    <string name="english_title_was_copied">अंग्रेज़ी शीर्षक कॉपी किया गया!</string>
+    <string name="japanese_title_was_copied">जापानी शीर्षक कॉपी किया गया!</string>
+    <string name="anime_title_was_copied">एनीमे शीर्षक कॉपी किया गया!</string>
+    <string name="manga_title_was_copied">मांगा शीर्षक कॉपी किया गया!</string>
+
+</resources>

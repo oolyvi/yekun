@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Yekun</string>
+
+    <!--    content descriptions    -->
+    <string name="cd_selected_chat_image">선택된 채팅 이미지</string>
+    <string name="cd_send_button">보내기 버튼</string>
+    <string name="cd_add_button">추가 버튼</string>
+    <string name="cd_sent_image">보낸 이미지</string>
+    <string name="cd_media_main_picture">미디어 메인 사진</string>
+    <string name="cd_anime_character_picture">애니메이션 캐릭터 사진</string>
+    <string name="cd_anime_character_placeholder">애니메이션 캐릭터 플레이스홀더</string>
+    <string name="cd_media_placeholder">미디어 플레이스홀더</string>
+    <string name="cd_media_picture">미디어 사진</string>
+    <string name="cd_profile_image">프로필 이미지</string>
+    <string name="cd_profile_placeholder">프로필 플레이스홀더</string>
+    <string name="cd_id_icon">아이디 아이콘</string>
+    <string name="cd_on_boarding_image">온보딩 이미지</string>
+    <string name="cd_status_icon">상태 아이콘</string>
+    <string name="cd_media_type_icon">미디어 유형 아이콘</string>
+    <string name="cd_mean_score_icon">평균 점수 아이콘</string>
+    <string name="cd_share_icon">공유 아이콘</string>
+    <string name="cd_share_qr">QR 코드 공유</string>
+    <string name="cd_copy_icon">복사 아이콘</string>
+    <string name="cd_close_icon">닫기 아이콘</string>
+    <string name="cd_open_in_browser_icon">브라우저에서 열기 아이콘</string>
+    <string name="cd_forward_icon">앞으로 아이콘</string>
+    <string name="cd_title_icon">제목 아이콘</string>
+    <string name="cd_done_icon">완료 아이콘</string>
+    <string name="cd_date_range_icon">날짜 범위 아이콘</string>
+    <string name="cd_timelapse_icon">타임랩스 아이콘</string>
+    <string name="cd_scoreboard_icon">점수판 아이콘</string>
+    <string name="cd_play_icon">재생 아이콘</string>
+    <string name="cd_repeat_icon">반복 아이콘</string>
+    <string name="cd_selected_status_icon">선택된 상태 아이콘</string>
+    <string name="cd_down_icon">아래 아이콘</string>
+    <string name="cd_star_icon">별 아이콘</string>
+    <string name="cd_heart_icon">하트 아이콘</string>
+    <string name="cd_language_icon">언어 아이콘</string>
+    <string name="cd_theme_icon">테마 아이콘</string>
+    <string name="cd_discord_icon">디스코드 아이콘</string>
+    <string name="cd_instagram_icon">인스타그램 아이콘</string>
+    <string name="cd_code_icon">코드 아이콘</string>
+    <string name="cd_app_icon">앱 아이콘</string>
+    <string name="cd_version_icon">버전 아이콘</string>
+    <string name="cd_nsfw_icon">후방주의 아이콘</string>
+    <string name="cd_music_icon">음악 아이콘</string>
+    <string name="cd_send_feedback_icon">피드백 보내기 아이콘</string>
+    <string name="cd_about_icon">정보 아이콘</string>
+    <string name="cd_log_out_icon">로그아웃 아이콘</string>
+    <string name="cd_login_icon">로그인 아이콘</string>
+    <string name="cd_announcement_icon">공지사항 아이콘</string>
+    <string name="cd_news_icon">뉴스 아이콘</string>
+    <string name="cd_book_icon">책 아이콘</string>
+    <string name="cd_cake_icon">케이크 아이콘</string>
+    <string name="cd_person_icon">사람 아이콘</string>
+    <string name="cd_location_icon">위치 아이콘</string>
+    <string name="cd_exit_icon">종료 아이콘</string>
+    <string name="cd_back_icon">뒤로 아이콘</string>
+    <string name="cd_search_icon">검색 아이콘</string>
+    <string name="cd_ai_icon">AI 아이콘</string>
+    <string name="cd_filter_icon">필터 아이콘</string>
+    <string name="cd_settings_icon">설정 아이콘</string>
+    <string name="cd_season_chart_icon">시즌 차트 아이콘</string>
+    <string name="cd_season_icon">시즌 아이콘</string>
+    <string name="cd_anime_icon">애니메이션 아이콘</string>
+    <string name="cd_manga_icon">만화 아이콘</string>
+    <string name="cd_bottom_navigation_icon">하단 탐색 아이콘</string>
+    <string name="cd_refresh_icon">새로고침 아이콘</string>
+    <string name="cd_bin_icon">휴지통 아이콘</string>
+    <string name="cd_people_icon">사람들 아이콘</string>
+
+
+    <!--                   SCREENS                 -->
+
+    <!--    settings    -->
+    <string name="theme_system">시스템 따라가기</string>
+    <string name="english_native" translatable="false">English</string>
+    <string name="azerbaijani_native" translatable="false">Azərbaycanca</string>
+    <string name="hindi_native" translatable="false">हिंदी</string>
+    <string name="japanese_native" translatable="false">日本語</string>
+    <string name="portuguese_native" translatable="false">Português</string>
+    <string name="spanish_native" translatable="false">Español</string>
+    <string name="russian_native" translatable="false">Русский</string>
+    <string name="turkish_native" translatable="false">Türkçe</string>
+    <string name="korean_native" translatable="false">한국어</string>
+    <string name="theme_light">라이트</string>
+    <string name="theme_dark">다크</string>
+    <string name="theme">테마</string>
+    <string name="language">언어</string>
+    <string name="coming_soon">곧 출시 예정…</string>
+    <string name="nsfw_title">후방주의 콘텐츠 보기</string>
+    <string name="nsfw_subtitle">저는 18세 이상입니다</string>
+    <string name="sound_on_click">클릭 시 소리</string>
+    <string name="activate_sound_on_ai_send_button_click">AI 전송 버튼 클릭 시 소리 활성화</string>
+
+
+    <!--    about   -->
+    <string name="discord" translatable="false">Discord</string>
+    <string name="instagram" translatable="false">Instagram</string>
+    <string name="version">버전</string>
+    <string name="developed_by">개발자</string>
+    <string name="oolyvi" translatable="false">oolyvi</string>
+
+
+    <!--    more    -->
+    <string name="profile">프로필</string>
+    <string name="login">로그인</string>
+    <string name="login_subtitle">모든 기능을 사용하려면 로그인하십시오</string>
+    <string name="anime_manga_news"><![CDATA[애니메이션 및 만화 뉴스]]></string>
+    <string name="myanimelist_announcements">MyAnimeList 공지사항</string>
+    <string name="rate_app">앱 평가</string>
+    <string name="send_feedback">피드백 보내기</string>
+    <string name="settings">설정</string>
+    <string name="about">정보</string>
+    <string name="log_out">로그아웃</string>
+    <string name="log_out_subtitle">로그아웃하시겠습니까?</string>
+    <string name="log_out_description">Yekun에서 로그아웃됩니다, MAL에서는 로그아웃되지 않습니다</string>
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="credits">크레딧</string>
+    <string name="some_collaborations">일부 협업</string>
+
+
+    <!--    credits     -->
+    <string name="special_thanks">특별 감사!</string>
+    <string name="myanimelist_api_help">MyAnimeList API 도움</string>
+    <string name="logo_design">로고 디자인</string>
+    <string name="translations">번역</string>
+    <string name="testers">테스터</string>
+    <string name="azerbaijani">아제르바이잔어</string>
+    <string name="hindi">힌디어</string>
+    <string name="japanese_">일본어</string>
+    <string name="korean">한국인</string>
+    <string name="portuguese_portugal">포르투갈어 (포르투갈)</string>
+    <string name="russian_russia">러시아어 (러시아)</string>
+    <string name="spanish">스페인어</string>
+    <string name="turkish">터키어</string>
+
+
+    <!--    gemini ai   -->
+    <string name="prompt">프롬프트</string>
+    <string name="copied">복사됨</string>
+    <string name="copy">복사</string>
+    <string name="share">공유</string>
+    <string name="gemini_ai" translatable="false">Gemini AI</string>
+    <string name="ai">AI</string>
+    <string name="you">당신</string>
+
+
+    <!--    home    -->
+    <string name="seasonal_chart">시즌 차트</string>
+    <string name="anime_ranking">애니메이션 랭킹</string>
+    <string name="manga_ranking">만화 랭킹</string>
+    <string name="search">검색</string>
+    <string name="top_anime">최고의 애니메이션</string>
+    <string name="top_manga">최고의 만화</string>
+    <string name="for_you">당신을 위해</string>
+
+
+    <!--    edit user list  -->
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="episodes">에피소드</string>
+    <string name="score">점수: %1$s</string>
+    <string name="priority">우선순위: %1$s</string>
+    <string name="rewatching">다시 보는 중</string>
+    <string name="total_rewatches">총 다시 보기 횟수</string>
+    <string name="rewatch_value">다시 볼 가치: %1$s</string>
+    <string name="tags">태그</string>
+    <string name="notes">메모</string>
+    <string name="delete_dialog_title">이 항목을 삭제하시겠습니까?</string>
+    <string name="chapters">챕터</string>
+    <string name="volumes">볼륨</string>
+    <string name="rereading">다시 읽는 중</string>
+    <string name="total_rereads">총 다시 읽기 횟수</string>
+    <string name="reread_value">다시 읽을 가치: %1$s</string>
+
+
+    <!--    composable     -->
+    <string name="add_to_list">목록에 추가</string>
+    <string name="looks_like_something_went_wrong">문제가 발생한 것 같습니다!</string>
+    <string name="there_is_nothing_to_show">표시할 내용이 없습니다!</string>
+    <string name="please_search">검색해 주세요!</string>
+    <string name="please_try_again">다시 시도해 주세요!</string>
+    <string name="music">음악</string>
+    <string name="ona">ONA</string>
+    <string name="special">스페셜</string>
+    <string name="movie">영화</string>
+    <string name="ova">OVA</string>
+    <string name="tv">TV</string>
+    <string name="oel">Oel</string>
+    <string name="manhua">만화</string>
+    <string name="manhwa">만화</string>
+    <string name="doujinshi">동인지</string>
+    <string name="one_shot">원샷</string>
+    <string name="novel">소설</string>
+    <string name="login_subtitle_2">모든 기능을 보려면 로그인하세요</string>
+    <string name="save">저장</string>
+    <string name="anime_list">애니메이션 목록</string>
+    <string name="loading">로딩 중…</string>
+    <string name="manga_list">만화 목록</string>
+    <string name="more">더 보기</string>
+    <string name="unknown">알 수 없음</string>
+    <string name="finished">완료됨</string>
+    <string name="airing">방영 중</string>
+    <string name="not_aired_yet">아직 방영되지 않음</string>
+    <string name="other">기타</string>
+    <string name="original">원작</string>
+    <string name="_4_koma_manga">4컷 만화</string>
+    <string name="web_manga">웹 만화</string>
+    <string name="digital_manga">디지털 만화</string>
+    <string name="light_novel">라이트 노벨</string>
+    <string name="visual_novel">비주얼 노벨</string>
+    <string name="game">게임</string>
+    <string name="card_game">카드 게임</string>
+    <string name="book">책</string>
+    <string name="picture_book">그림책</string>
+    <string name="radio">라디오</string>
+    <string name="low">낮음</string>
+    <string name="medium">중간</string>
+    <string name="high">높음</string>
+    <string name="very_low">매우 낮음</string>
+    <string name="very_high">매우 높음</string>
+    <string name="top_all">모두 최고</string>
+    <string name="top_airings">최고의 방영작</string>
+    <string name="top_upcomings">최고의 기대작</string>
+    <string name="top_tvs">최고의 TV작</string>
+    <string name="top_ovas">최고의 OVA</string>
+    <string name="top_movies">최고의 영화</string>
+    <string name="top_specials">최고의 스페셜</string>
+    <string name="top_populars">최고의 인기작</string>
+    <string name="top_favorites">최고의 즐겨찾기</string>
+    <string name="all">모두</string>
+    <string name="airings">방영작</string>
+    <string name="upcomings">기대작</string>
+    <string name="tvs">TV작</string>
+    <string name="ovas">OVA</string>
+    <string name="movies">영화</string>
+    <string name="specials">스페셜</string>
+    <string name="populars">인기작</string>
+    <string name="favorites">즐겨찾기</string>
+    <string name="publishing">출판 중</string>
+    <string name="not_published_yet">아직 출판되지 않음</string>
+    <string name="top_mangas">최고의 만화</string>
+    <string name="top_novels">최고의 소설</string>
+    <string name="top_one_shots">최고의 원샷</string>
+    <string name="top_doujins">최고의 동인지</string>
+    <string name="top_manhwas">최고의 만화</string>
+    <string name="top_manhuas">최고의 만화</string>
+    <string name="mangas">만화</string>
+    <string name="novels">소설</string>
+    <string name="one_shots">원샷</string>
+    <string name="doujins">동인지</string>
+    <string name="manhwas">만화</string>
+    <string name="manhuas">만화</string>
+
+
+    <!--    anime $ manga list  -->
+    <string name="title">제목</string>
+    <string name="last_updated">마지막 업데이트</string>
+    <string name="start_date">시작 날짜</string>
+
+
+    <!--    onboarding  -->
+    <string name="onboarding_title_1">환영합니다, 여기에 당신을 만나게 되어 기쁩니다!</string>
+    <string name="onboarding_subtitle_1">Yekun으로 목록을 시청하고 업데이트할 수 있습니다.</string>
+    <string name="onboarding_title_2">AI-지원</string>
+    <string name="onboarding_subtitle_2">심지어 Gemini AI를 사용하여 경험을 향상시킬 수도 있습니다.</string>
+    <string name="onboarding_title_3">애니메이션 및 만화 세계를 발견하세요</string>
+    <string name="onboarding_subtitle_3">편안하게 하시고, 버튼을 클릭하여 애플리케이션을 즐겨보세요 ;)</string>
+    <string name="let_s_start">시작합시다</string>
+
+
+    <!--    profile     -->
+    <string name="edit">편집</string>
+    <string name="total">전체</string>
+    <string name="anime_stats">애니메이션 통계</string>
+    <string name="manga_stats">만화 통계</string>
+    <string name="share_mal_profile">MAL 프로필 공유</string>
+    <string name="watching">시청 중</string>
+    <string name="completed">완료됨</string>
+    <string name="on_hold">보류 중</string>
+    <string name="dropped">중단됨</string>
+    <string name="plan_to_watch">시청할 예정</string>
+    <string name="days">일</string>
+    <string name="mean_score">평균 점수</string>
+    <string name="rewatched">다시 시청함</string>
+    <string name="anime">애니메이션</string>
+    <string name="manga">만화</string>
+    <string name="reading">읽는 중</string>
+    <string name="plan_to_read">읽을 예정</string>
+    <string name="rereads">다시 읽음</string>
+
+
+    <!--    season chart    -->
+    <string name="season">시즌</string>
+    <string name="year">년도</string>
+    <string name="sort_by">정렬 기준</string>
+    <string name="members_count">회원 수</string>
+    <string name="score_season_chart">점수</string>
+    <string name="winter">겨울</string>
+    <string name="spring">봄</string>
+    <string name="summer">여름</string>
+    <string name="fall">가을</string>
+
+
+    <!--    anime & manga detail    -->
+    <string name="characters">캐릭터</string>
+    <string name="info">정보</string>
+    <string name="rank">순위</string>
+    <string name="popularity">인기도</string>
+    <string name="scoring_users">평가한 사용자</string>
+    <string name="list_users">목록에 추가한 사용자</string>
+    <string name="synonyms">동의어</string>
+    <string name="japanese">일본어</string>
+    <string name="english">영어</string>
+    <string name="end_date">종료 날짜</string>
+    <string name="broadcast">방송</string>
+    <string name="duration">기간</string>
+    <string name="source">출처</string>
+    <string name="studios">제작사</string>
+    <string name="episodes_count">에피소드 수</string>
+    <string name="synopsis">줄거리</string>
+    <string name="themes">테마</string>
+    <string name="openings">오프닝</string>
+    <string name="endings">엔딩</string>
+    <string name="recommended">추천</string>
+    <string name="related">관련</string>
+    <string name="serialization">직렬화</string>
+    <string name="english_title_was_copied">영어 제목이 복사되었습니다!</string>
+    <string name="japanese_title_was_copied">일본어 제목이 복사되었습니다!</string>
+    <string name="anime_title_was_copied">애니메이션 제목이 복사되었습니다!</string>
+    <string name="manga_title_was_copied">만화 제목이 복사되었습니다!</string>
+
+</resources>

@@ -1,0 +1,336 @@
+<resources>
+    <string name="app_name" translatable="false">Yekun</string>
+    <string name="app_version_number" translatable="false">2.0.8</string>
+
+    <!--    content descriptions    -->
+    <string name="cd_selected_chat_image">selected chat image</string>
+    <string name="cd_send_button">send button</string>
+    <string name="cd_add_button">add button</string>
+    <string name="cd_sent_image">sent image</string>
+    <string name="cd_media_main_picture">media main picture</string>
+    <string name="cd_anime_character_picture">anime character picture</string>
+    <string name="cd_anime_character_placeholder">anime character placeholder</string>
+    <string name="cd_media_placeholder">anime placeholder</string>
+    <string name="cd_media_picture">media picture</string>
+    <string name="cd_profile_image">profile image</string>
+    <string name="cd_profile_placeholder">profile placeholder</string>
+    <string name="cd_id_icon">id icon</string>
+    <string name="cd_on_boarding_image">on boarding image</string>
+    <string name="cd_status_icon">status icon</string>
+    <string name="cd_media_type_icon">media type icon</string>
+    <string name="cd_mean_score_icon">mean score icon</string>
+    <string name="cd_share_icon">share icon</string>
+    <string name="cd_share_qr">share qr</string>
+    <string name="cd_copy_icon">copy icon</string>
+    <string name="cd_close_icon">close icon</string>
+    <string name="cd_open_in_browser_icon">open in browser icon</string>
+    <string name="cd_forward_icon">forward icon</string>
+    <string name="cd_title_icon">title icon</string>
+    <string name="cd_done_icon">done icon</string>
+    <string name="cd_date_range_icon">date range icon</string>
+    <string name="cd_timelapse_icon">timelapse icon</string>
+    <string name="cd_scoreboard_icon">score board icon</string>
+    <string name="cd_play_icon">play icon</string>
+    <string name="cd_repeat_icon">repeat icon</string>
+    <string name="cd_selected_status_icon">selected status icon</string>
+    <string name="cd_down_icon">down icon</string>
+    <string name="cd_star_icon">star icon</string>
+    <string name="cd_heart_icon">heart icon</string>
+    <string name="cd_language_icon">language icon</string>
+    <string name="cd_theme_icon">theme icon</string>
+    <string name="cd_discord_icon">discord icon</string>
+    <string name="cd_instagram_icon">instagram icon</string>
+    <string name="cd_code_icon">code icon</string>
+    <string name="cd_app_icon">app icon</string>
+    <string name="cd_version_icon">version icon</string>
+    <string name="cd_nsfw_icon">nsfw icon</string>
+    <string name="cd_music_icon">music icon</string>
+    <string name="cd_send_feedback_icon">send feedback icon</string>
+    <string name="cd_about_icon">about icon</string>
+    <string name="cd_log_out_icon">log out icon</string>
+    <string name="cd_login_icon">login icon</string>
+    <string name="cd_announcement_icon">announcement icon</string>
+    <string name="cd_news_icon">news icon</string>
+    <string name="cd_book_icon">book icon</string>
+    <string name="cd_cake_icon">cake icon</string>
+    <string name="cd_person_icon">person icon</string>
+    <string name="cd_location_icon">location icon</string>
+    <string name="cd_exit_icon">exit icon</string>
+    <string name="cd_back_icon">back icon</string>
+    <string name="cd_search_icon">search icon</string>
+    <string name="cd_ai_icon">ai icon</string>
+    <string name="cd_filter_icon">filter icon</string>
+    <string name="cd_settings_icon">settings icon</string>
+    <string name="cd_season_chart_icon">season chart icon</string>
+    <string name="cd_season_icon">season icon</string>
+    <string name="cd_anime_icon">anime icon</string>
+    <string name="cd_manga_icon">manga icon</string>
+    <string name="cd_bottom_navigation_icon">bottom navigation icon</string>
+    <string name="cd_refresh_icon">refresh icon</string>
+    <string name="cd_bin_icon">bin icon</string>
+    <string name="cd_people_icon">people icon</string>
+
+
+    <!--                   SCREENS                 -->
+
+    <!--    settings    -->
+    <string name="theme_system">Follow system</string>
+    <string name="english_native" translatable="false">English</string>
+    <string name="azerbaijani_native" translatable="false">Azərbaycanca</string>
+    <string name="hindi_native" translatable="false">हिंदी</string>
+    <string name="japanese_native" translatable="false">日本語</string>
+    <string name="portuguese_native" translatable="false">Português</string>
+    <string name="spanish_native" translatable="false">Español</string>
+    <string name="russian_native" translatable="false">Русский</string>
+    <string name="turkish_native" translatable="false">Türkçe</string>
+    <string name="korean_native" translatable="false">한국어</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme">Theme</string>
+    <string name="language">Language</string>
+    <string name="coming_soon">Coming soon…</string>
+    <string name="nsfw_title">Show NSFW content</string>
+    <string name="nsfw_subtitle">I\'m over 18</string>
+    <string name="sound_on_click">Sound on click</string>
+    <string name="activate_sound_on_ai_send_button_click">Activate sound on AI send button click</string>
+
+
+    <!--    about   -->
+    <string name="discord" translatable="false">Discord</string>
+    <string name="instagram" translatable="false">Instagram</string>
+    <string name="version">Version</string>
+    <string name="developed_by">Developed by</string>
+    <string name="oolyvi" translatable="false">oolyvi</string>
+
+
+    <!--    more    -->
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="login_subtitle">You can login to use all features</string>
+    <string name="anime_manga_news"><![CDATA[Anime & Manga News]]></string>
+    <string name="myanimelist_announcements">MyAnimeList Announcements</string>
+    <string name="rate_app">Rate App</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="log_out">Log Out</string>
+    <string name="log_out_subtitle">Are you sure to log out?</string>
+    <string name="log_out_description">You will log out from Yekun, not MAL</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="credits">Credits</string>
+    <string name="some_collaborations">Some collaborations</string>
+
+
+    <!--    credits     -->
+    <string name="special_thanks">Special thanks!</string>
+    <string name="myanimelist_api_help">MyAnimeList API help</string>
+    <string name="logo_design">Logo design</string>
+    <string name="translations">Translations</string>
+    <string name="testers">Testers</string>
+    <string name="azerbaijani">Azerbaijani</string>
+    <string name="hindi">Hindi</string>
+    <string name="japanese_">Japanese</string>
+    <string name="korean">Korean</string>
+    <string name="portuguese_portugal">Portuguese (Portugal)</string>
+    <string name="russian_russia">Russian (Russia)</string>
+    <string name="spanish">Spanish</string>
+    <string name="turkish">Turkish</string>
+
+
+    <!--    gemini ai   -->
+    <string name="prompt">Prompt</string>
+    <string name="copied">Copied</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="gemini_ai" translatable="false">Gemini AI</string>
+    <string name="ai">AI</string>
+    <string name="you">You</string>
+
+
+    <!--    home    -->
+    <string name="seasonal_chart">Seasonal Chart</string>
+    <string name="anime_ranking">Anime Ranking</string>
+    <string name="manga_ranking">Manga Ranking</string>
+    <string name="search">Search</string>
+    <string name="top_anime">Top Anime</string>
+    <string name="top_manga">Top Manga</string>
+    <string name="for_you">For You</string>
+
+
+    <!--    edit user list  -->
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="episodes">Episodes</string>
+    <string name="score">Score: %1$s</string>
+    <string name="priority">Priority: %1$s</string>
+    <string name="rewatching">Rewatching</string>
+    <string name="total_rewatches">Total Rewatches</string>
+    <string name="rewatch_value">Rewatch Value: %1$s</string>
+    <string name="tags">Tags</string>
+    <string name="notes">Notes</string>
+    <string name="delete_dialog_title">Are you sure to delete this entry?</string>
+    <string name="chapters">Chapters</string>
+    <string name="volumes">Volumes</string>
+    <string name="rereading">Rereading</string>
+    <string name="total_rereads">Total Rereads</string>
+    <string name="reread_value">Reread Value: %1$s</string>
+
+
+    <!--    composable     -->
+    <string name="add_to_list">Add to List</string>
+    <string name="looks_like_something_went_wrong">Looks like something went wrong!</string>
+    <string name="there_is_nothing_to_show">There is nothing to show!</string>
+    <string name="please_search">Please search!</string>
+    <string name="please_try_again">Please try again!</string>
+    <string name="music">Music</string>
+    <string name="ona">ONA</string>
+    <string name="special">Special</string>
+    <string name="movie">Movie</string>
+    <string name="ova">OVA</string>
+    <string name="tv">TV</string>
+    <string name="oel">Oel</string>
+    <string name="manhua">Manhua</string>
+    <string name="manhwa">Manhwa</string>
+    <string name="doujinshi">Doujinshi</string>
+    <string name="one_shot">One Shot</string>
+    <string name="novel">Novel</string>
+    <string name="login_subtitle_2">Please login to see all features</string>
+    <string name="save">SAVE</string>
+    <string name="anime_list">Anime List</string>
+    <string name="loading">Loading…</string>
+    <string name="manga_list">Manga List</string>
+    <string name="more">More</string>
+    <string name="unknown">Unknown</string>
+    <string name="finished">Finished</string>
+    <string name="airing">Airing</string>
+    <string name="not_aired_yet">Not Aired Yet</string>
+    <string name="other">Other</string>
+    <string name="original">Original</string>
+    <string name="_4_koma_manga">4 Koma Manga</string>
+    <string name="web_manga">Web Manga</string>
+    <string name="digital_manga">Digital Manga</string>
+    <string name="light_novel">Light Novel</string>
+    <string name="visual_novel">Visual Novel</string>
+    <string name="game">Game</string>
+    <string name="card_game">Card Game</string>
+    <string name="book">Book</string>
+    <string name="picture_book">Picture Book</string>
+    <string name="radio">Radio</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="very_low">Very Low</string>
+    <string name="very_high">Very High</string>
+    <string name="top_all">Top All</string>
+    <string name="top_airings">Top Airings</string>
+    <string name="top_upcomings">Top Upcomings</string>
+    <string name="top_tvs">Top TVs</string>
+    <string name="top_ovas">Top OVAs</string>
+    <string name="top_movies">Top Movies</string>
+    <string name="top_specials">Top Specials</string>
+    <string name="top_populars">Top Populars</string>
+    <string name="top_favorites">Top Favorites</string>
+    <string name="all">All</string>
+    <string name="airings">Airings</string>
+    <string name="upcomings">Upcomings</string>
+    <string name="tvs">TVs</string>
+    <string name="ovas">OVAs</string>
+    <string name="movies">Movies</string>
+    <string name="specials">Specials</string>
+    <string name="populars">Populars</string>
+    <string name="favorites">Favorites</string>
+    <string name="publishing">Publishing</string>
+    <string name="not_published_yet">Not Published Yet</string>
+    <string name="top_mangas">Top Mangas</string>
+    <string name="top_novels">Top Novels</string>
+    <string name="top_one_shots">Top One Shots</string>
+    <string name="top_doujins">Top Doujins</string>
+    <string name="top_manhwas">Top Manhwas</string>
+    <string name="top_manhuas">Top Manhuas</string>
+    <string name="mangas">Mangas</string>
+    <string name="novels">Novels</string>
+    <string name="one_shots">One Shots</string>
+    <string name="doujins">Doujins</string>
+    <string name="manhwas">Manhwas</string>
+    <string name="manhuas">Manhuas</string>
+
+
+    <!--    anime $ manga list  -->
+    <string name="title">Title</string>
+    <string name="last_updated">Last Updated</string>
+    <string name="start_date">Start Date</string>
+
+
+    <!--    onboarding  -->
+    <string name="onboarding_title_1">Welcome, I\'m glad to see you here!</string>
+    <string name="onboarding_subtitle_1">You can Watch &amp; Update your list with Yekun.</string>
+    <string name="onboarding_title_2">AI-Powered</string>
+    <string name="onboarding_subtitle_2">Even you can enhance your experience with Gemini AI.</string>
+    <string name="onboarding_title_3">Discover Anime &amp; Manga Universe</string>
+    <string name="onboarding_subtitle_3">Be relax, click button and enjoy the application ;)</string>
+    <string name="let_s_start">Let\'s Start</string>
+
+
+    <!--    profile     -->
+    <string name="edit">Edit</string>
+    <string name="total">Total</string>
+    <string name="anime_stats">Anime Stats</string>
+    <string name="manga_stats">Manga Stats</string>
+    <string name="share_mal_profile">Share MAL Profile</string>
+    <string name="watching">Watching</string>
+    <string name="completed">Completed</string>
+    <string name="on_hold">On Hold</string>
+    <string name="dropped">Dropped</string>
+    <string name="plan_to_watch">Plan to Watch</string>
+    <string name="days">Days</string>
+    <string name="mean_score">Mean Score</string>
+    <string name="rewatched">Rewatched</string>
+    <string name="anime">Anime</string>
+    <string name="manga">Manga</string>
+    <string name="reading">Reading</string>
+    <string name="plan_to_read">Plan to Read</string>
+    <string name="rereads">Rereads</string>
+
+
+    <!--    season chart    -->
+    <string name="season">Season</string>
+    <string name="year">Year</string>
+    <string name="sort_by">Sort by</string>
+    <string name="members_count">Members Count</string>
+    <string name="score_season_chart">Score</string>
+    <string name="winter">Winter</string>
+    <string name="spring">Spring</string>
+    <string name="summer">Summer</string>
+    <string name="fall">Fall</string>
+
+
+    <!--    anime & manga detail    -->
+    <string name="characters">Characters</string>
+    <string name="info">Info</string>
+    <string name="rank">Rank</string>
+    <string name="popularity">Popularity</string>
+    <string name="scoring_users">Scoring Users</string>
+    <string name="list_users">List Users</string>
+    <string name="synonyms">Synonyms</string>
+    <string name="japanese">Japanese</string>
+    <string name="english">English</string>
+    <string name="end_date">End Date</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="duration">Duration</string>
+    <string name="source">Source</string>
+    <string name="studios">Studios</string>
+    <string name="episodes_count">Episodes Count</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="themes">Themes</string>
+    <string name="openings">Openings</string>
+    <string name="endings">Endings</string>
+    <string name="recommended">Recommended</string>
+    <string name="related">Related</string>
+    <string name="serialization">Serialization</string>
+    <string name="english_title_was_copied">English title was copied!</string>
+    <string name="japanese_title_was_copied">Japanese title was copied!</string>
+    <string name="anime_title_was_copied">Anime title was copied!</string>
+    <string name="manga_title_was_copied">Manga title was copied!</string>
+
+</resources>

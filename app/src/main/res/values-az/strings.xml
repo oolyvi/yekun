@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Yekun</string>
+
+    <!--    content descriptions    -->
+    <string name="cd_selected_chat_image">seçilmiş söhbət şəkli</string>
+    <string name="cd_send_button">göndər düyməsi</string>
+    <string name="cd_add_button">əlavə et düyməsi</string>
+    <string name="cd_sent_image">göndərilmiş şəkil</string>
+    <string name="cd_media_main_picture">əsas media şəkli</string>
+    <string name="cd_anime_character_picture">anime xarakter şəkli</string>
+    <string name="cd_anime_character_placeholder">anime xarakter placeholder</string>
+    <string name="cd_media_placeholder">media placeholder</string>
+    <string name="cd_media_picture">media şəkli</string>
+    <string name="cd_profile_image">profil şəkli</string>
+    <string name="cd_profile_placeholder">profil placeholder</string>
+    <string name="cd_id_icon">id ikonu</string>
+    <string name="cd_on_boarding_image">qarşılanma şəkli</string>
+    <string name="cd_status_icon">status ikonu</string>
+    <string name="cd_media_type_icon">media növü ikonu</string>
+    <string name="cd_mean_score_icon">orta qiymət ikonu</string>
+    <string name="cd_share_icon">paylaşma ikonu</string>
+    <string name="cd_share_qr">qr kodu paylaşma</string>
+    <string name="cd_copy_icon">kopyala ikonu</string>
+    <string name="cd_close_icon">bağla ikonu</string>
+    <string name="cd_open_in_browser_icon">brauzerdə açma ikonu</string>
+    <string name="cd_forward_icon">irəli ikonu</string>
+    <string name="cd_title_icon">başlıq ikonu</string>
+    <string name="cd_done_icon">tamam ikonu</string>
+    <string name="cd_date_range_icon">tarix aralığı ikonu</string>
+    <string name="cd_timelapse_icon">zaman keçir ikonu</string>
+    <string name="cd_scoreboard_icon">qiymət lövhəsi ikonu</string>
+    <string name="cd_play_icon">oynatma ikonu</string>
+    <string name="cd_repeat_icon">təkrarlama ikonu</string>
+    <string name="cd_selected_status_icon">seçilmiş status ikonu</string>
+    <string name="cd_down_icon">aşağı ikonu</string>
+    <string name="cd_star_icon">ulduz ikonu</string>
+    <string name="cd_heart_icon">ürək ikonu</string>
+    <string name="cd_language_icon">dil ikonu</string>
+    <string name="cd_theme_icon">mövzu ikonu</string>
+    <string name="cd_discord_icon">discord ikonu</string>
+    <string name="cd_instagram_icon">instagram ikonu</string>
+    <string name="cd_code_icon">kod ikonu</string>
+    <string name="cd_app_icon">tətbiq ikonu</string>
+    <string name="cd_version_icon">versiya ikonu</string>
+    <string name="cd_nsfw_icon">nsfw ikonu</string>
+    <string name="cd_music_icon">musiqi ikonu</string>
+    <string name="cd_send_feedback_icon">rəy göndərmə ikonu</string>
+    <string name="cd_about_icon">haqqında ikonu</string>
+    <string name="cd_log_out_icon">çıxış ikonu</string>
+    <string name="cd_login_icon">giriş ikonu</string>
+    <string name="cd_announcement_icon">elan ikonu</string>
+    <string name="cd_news_icon">xəbər ikonu</string>
+    <string name="cd_book_icon">kitab ikonu</string>
+    <string name="cd_cake_icon">tort ikonu</string>
+    <string name="cd_person_icon">şəxs ikonu</string>
+    <string name="cd_location_icon">yer ikonu</string>
+    <string name="cd_exit_icon">çıxış ikonu</string>
+    <string name="cd_back_icon">geri ikonu</string>
+    <string name="cd_search_icon">axtarış ikonu</string>
+    <string name="cd_ai_icon">ai ikonu</string>
+    <string name="cd_filter_icon">filtr ikonu</string>
+    <string name="cd_settings_icon">parametrlər ikonu</string>
+    <string name="cd_season_chart_icon">mövsüm qrafiki ikonu</string>
+    <string name="cd_season_icon">mövsüm ikonu</string>
+    <string name="cd_anime_icon">anime ikonu</string>
+    <string name="cd_manga_icon">manga ikonu</string>
+    <string name="cd_bottom_navigation_icon">aşağı naviqasiya ikonu</string>
+    <string name="cd_refresh_icon">yeniləmə ikonu</string>
+    <string name="cd_bin_icon">zibil qutusu ikonu</string>
+    <string name="cd_people_icon">insan ikonu</string>
+
+
+    <!--                   SCREENS                 -->
+
+    <!--    settings    -->
+    <string name="theme_system">Sistemə uyğun</string>
+    <string name="english_native" translatable="false">English</string>
+    <string name="azerbaijani_native" translatable="false">Azərbaycanca</string>
+    <string name="hindi_native" translatable="false">हिंदी</string>
+    <string name="japanese_native" translatable="false">日本語</string>
+    <string name="portuguese_native" translatable="false">Português</string>
+    <string name="spanish_native" translatable="false">Español</string>
+    <string name="russian_native" translatable="false">Русский</string>
+    <string name="turkish_native" translatable="false">Türkçe</string>
+    <string name="korean_native" translatable="false">한국어</string>
+    <string name="theme_light">Aydın</string>
+    <string name="theme_dark">Qaranlıq</string>
+    <string name="theme">Mövzu</string>
+    <string name="language">Dil</string>
+    <string name="coming_soon">Tezliklə gəlir…</string>
+    <string name="nsfw_title">NSFW məzmununu göstər</string>
+    <string name="nsfw_subtitle">Mən 18 yaşdan yuxarıyam</string>
+    <string name="sound_on_click">Düymədəki səs</string>
+    <string name="activate_sound_on_ai_send_button_click">AI göndərmə düyməsini kliklədikdəki səsi aktivləşdirin</string>
+
+
+    <!--    about   -->
+    <string name="discord" translatable="false">Discord</string>
+    <string name="instagram" translatable="false">Instagram</string>
+    <string name="version">Versiya</string>
+    <string name="developed_by">Tərəfindən hazırlanıb</string>
+    <string name="oolyvi" translatable="false">oolyvi</string>
+
+
+    <!--    more    -->
+    <string name="profile">Profil</string>
+    <string name="login">Giriş</string>
+    <string name="login_subtitle">Bütün xüsusiyyətlərdən istifadə etmək üçün daxil ola bilərsiniz</string>
+    <string name="anime_manga_news"><![CDATA[Anime və Manga Xəbərləri]]></string>
+    <string name="myanimelist_announcements">MyAnimeList Elanları</string>
+    <string name="rate_app">Tətbiqi Qiymətləndir</string>
+    <string name="send_feedback">Rəy Göndər</string>
+    <string name="settings">Parametrlər</string>
+    <string name="about">Haqqında</string>
+    <string name="log_out">Çıxış</string>
+    <string name="log_out_subtitle">Çıxmaq istədiyinizə əminsiniz?</string>
+    <string name="log_out_description">Yekun\'dan çıxacaqsınız, MAL\'dan deyil</string>
+    <string name="yes">BƏLİ</string>
+    <string name="no">XEYİR</string>
+    <string name="credits">Əməyi keçənlər</string>
+    <string name="some_collaborations">Bəzi əməkdaşlıqlar</string>
+
+
+    <!--    credits     -->
+    <string name="special_thanks">Xüsusi təşəkkürlər!</string>
+    <string name="myanimelist_api_help">MyAnimeList API dəstəyi</string>
+    <string name="logo_design">Logo dizaynı</string>
+    <string name="translations">Tərcümələr</string>
+    <string name="testers">Testerlər</string>
+    <string name="azerbaijani">Azərbaycanca</string>
+    <string name="hindi">Hindcə</string>
+    <string name="japanese_">Yaponca</string>
+    <string name="korean">Koreyaca</string>
+    <string name="portuguese_portugal">Portuqalca (Portuqaliya)</string>
+    <string name="russian_russia">Rusca (Rusiya)</string>
+    <string name="spanish">İspanca</string>
+    <string name="turkish">Türkcə</string>
+
+
+    <!--    gemini ai   -->
+    <string name="prompt">Prompt</string>
+    <string name="copied">Kopyalandı</string>
+    <string name="copy">Kopyala</string>
+    <string name="share">Paylaş</string>
+    <string name="gemini_ai" translatable="false">Gemini AI</string>
+    <string name="ai">AI</string>
+    <string name="you">Sən</string>
+
+
+    <!--    home    -->
+    <string name="seasonal_chart">Mövsümi Qrafik</string>
+    <string name="anime_ranking">Anime Reytinqləri</string>
+    <string name="manga_ranking">Manga Reytinqləri</string>
+    <string name="search">Axtarış</string>
+    <string name="top_anime">Ən Yaxşı Anime</string>
+    <string name="top_manga">Ən Yaxşı Manga</string>
+    <string name="for_you">Sənin üçün</string>
+
+
+    <!--    edit user list  -->
+    <string name="ok">TAMAM</string>
+    <string name="cancel">LƏĞV ET</string>
+    <string name="episodes">Epizodlar</string>
+    <string name="score">Bal: %1$s</string>
+    <string name="priority">Prioritet: %1$s</string>
+    <string name="rewatching">Təkrar izləmə</string>
+    <string name="total_rewatches">Ümumi Təkrar İzləmələr</string>
+    <string name="rewatch_value">Təkrar İzləmə Dəyəri: %1$s</string>
+    <string name="tags">Etiketlər</string>
+    <string name="notes">Qeydlər</string>
+    <string name="delete_dialog_title">Bu qeydi silmək istədiyinizə əminsiniz?</string>
+    <string name="chapters">Fəsillər</string>
+    <string name="volumes">Cildlər</string>
+    <string name="rereading">Təkrar oxuma</string>
+    <string name="total_rereads">Ümumi Təkrar Oxumalar</string>
+    <string name="reread_value">Təkrar Oxuma Dəyəri: %1$s</string>
+
+
+    <!--    composable     -->
+    <string name="add_to_list">Siyahıya Əlavə Et</string>
+    <string name="looks_like_something_went_wrong">Nəsə səhv getdi!</string>
+    <string name="there_is_nothing_to_show">Göstərmək üçün heç nə yoxdur!</string>
+    <string name="please_search">Xahiş edirik, axtarış edin!</string>
+    <string name="please_try_again">Xahiş edirik, yenidən cəhd edin!</string>
+    <string name="music">Musiqi</string>
+    <string name="ona" translatable="false">ONA</string>
+    <string name="special">Xüsusi</string>
+    <string name="movie">Film</string>
+    <string name="ova" translatable="false">OVA</string>
+    <string name="tv" translatable="false">TV</string>
+    <string name="oel" translatable="false">Oel</string>
+    <string name="manhua" translatable="false">Manhua</string>
+    <string name="manhwa" translatable="false">Manhwa</string>
+    <string name="doujinshi" translatable="false">Doujinshi</string>
+    <string name="one_shot">One Shot</string>
+    <string name="novel">Roman</string>
+    <string name="login_subtitle_2">Xahiş edirik bütün xüsusiyyətləri görmək üçün daxil olun</string>
+    <string name="save">YADDA SAXLA</string>
+    <string name="anime_list">Anime Siyahısı</string>
+    <string name="loading">Yüklənir…</string>
+    <string name="manga_list">Manga Siyahısı</string>
+    <string name="more">Daha Çox</string>
+    <string name="unknown">Naməlum</string>
+    <string name="finished">Yayımlanması bitib</string>
+    <string name="airing">Yayımda</string>
+    <string name="not_aired_yet">Hələ Yayımlanmayıb</string>
+    <string name="other">Digər</string>
+    <string name="original">Orijinal</string>
+    <string name="_4_koma_manga">4 Koma Manga</string>
+    <string name="web_manga">Veb Manga</string>
+    <string name="digital_manga">Rəqəmsal Manga</string>
+    <string name="light_novel">Yüngül Roman</string>
+    <string name="visual_novel">Vizual Roman</string>
+    <string name="game">Oyun</string>
+    <string name="card_game">Kart Oyunu</string>
+    <string name="book">Kitab</string>
+    <string name="picture_book">Şəkilli Kitab</string>
+    <string name="radio">Radio</string>
+    <string name="low">Aşağı</string>
+    <string name="medium">Orta</string>
+    <string name="high">Yüksək</string>
+    <string name="very_low">Çox Aşağı</string>
+    <string name="very_high">Çox Yüksək</string>
+    <string name="top_all">Ən Yaxşılar</string>
+    <string name="top_airings">Ən Yaxşı Yayımda Olanlar</string>
+    <string name="top_upcomings">Ən Yaxşı Gələcəkdə Yayımlanacaqlar</string>
+    <string name="top_tvs">Ən Yaxşı TV\'lər</string>
+    <string name="top_ovas">Ən Yaxşı OVA\'lar</string>
+    <string name="top_movies">Ən Yaxşı Filmlər</string>
+    <string name="top_specials">Ən Yaxşı Xüsusi Yayımlar</string>
+    <string name="top_populars">Ən Populyarlar</string>
+    <string name="top_favorites">Ən Sevilənlər</string>
+    <string name="all">Hamısı</string>
+    <string name="airings">Yayımda olanlar</string>
+    <string name="upcomings">Gələcək Yayımlar</string>
+    <string name="tvs">TV\'lər</string>
+    <string name="ovas">OVA\'lar</string>
+    <string name="movies">Filmlər</string>
+    <string name="specials">Xüsusi Yayımlar</string>
+    <string name="populars">Populyarlar</string>
+    <string name="favorites">Sevilənlər</string>
+    <string name="publishing">Nəşr Olunanlar</string>
+    <string name="not_published_yet">Hələ Nəşr Olunmayıb</string>
+    <string name="top_mangas">Ən Yaxşı Mangalar</string>
+    <string name="top_novels">Ən Yaxşı Romanlar</string>
+    <string name="top_one_shots">Ən Yaxşı One Shots</string>
+    <string name="top_doujins">Ən Yaxşı Doujin\'lər</string>
+    <string name="top_manhwas">Ən Yaxşı Manhva\'lar</string>
+    <string name="top_manhuas">Ən Yaxşı Manhua\'lar</string>
+    <string name="mangas">Mangalar</string>
+    <string name="novels">Romanlar</string>
+    <string name="one_shots">One Shots</string>
+    <string name="doujins">Doujin\'lər</string>
+    <string name="manhwas">Manhva\'lar</string>
+    <string name="manhuas">Manhua\'lar</string>
+
+
+    <!--    anime $ manga list  -->
+    <string name="title">Başlıq</string>
+    <string name="last_updated">Son Yenilənmə</string>
+    <string name="start_date">Başlangıç Tarixi</string>
+
+
+    <!--    onboarding  -->
+    <string name="onboarding_title_1">Xoş gəldiniz, sizi burada görməkdən məmnunluq duyuram!</string>
+    <string name="onboarding_subtitle_1">Siyahınızı izləyə və yeniləyə bilərsiniz.</string>
+    <string name="onboarding_title_2">AI inteqrasiyalı</string>
+    <string name="onboarding_subtitle_2">Hətta Gemini AI ilə təcrübənizi təkmilləşdirə bilərsiniz.</string>
+    <string name="onboarding_title_3">Anime və Manga Cənnətini Axtar</string>
+    <string name="onboarding_subtitle_3">Rahat olun, düyməyə basın və proqramın dadını çıxarın ;)</string>
+    <string name="let_s_start">Gəlin Başlayaq</string>
+
+
+    <!--    profile     -->
+    <string name="edit">Dəyişdir</string>
+    <string name="total">Cəmi</string>
+    <string name="anime_stats">Anime Statistikası</string>
+    <string name="manga_stats">Manga Statistikası</string>
+    <string name="share_mal_profile">MAL Profilini Paylaş</string>
+    <string name="watching">İzlənilir</string>
+    <string name="completed">Tamamlanmış</string>
+    <string name="on_hold">Dayandırılmış</string>
+    <string name="dropped">Atılmış</string>
+    <string name="plan_to_watch">İzləmək Planı</string>
+    <string name="days">Günlər</string>
+    <string name="mean_score">Orta Nəticə</string>
+    <string name="rewatched">Yenidən İzlənmiş</string>
+    <string name="anime">Anime</string>
+    <string name="manga">Manga</string>
+    <string name="reading">Oxunur</string>
+    <string name="plan_to_read">Oxumaq Planı</string>
+    <string name="rereads">Yenidən Oxunmuş</string>
+
+
+    <!--    season chart    -->
+    <string name="season">Mövsüm</string>
+    <string name="year">İl</string>
+    <string name="sort_by">Sırala</string>
+    <string name="members_count">Üzvlərin Sayı</string>
+    <string name="score_season_chart">Xal</string>
+    <string name="winter">Qış</string>
+    <string name="spring">Yaz</string>
+    <string name="summer">Yay</string>
+    <string name="fall">Payız</string>
+
+
+    <!--    anime & manga detail    -->
+    <string name="characters">Xarakterlər</string>
+    <string name="info">Məlumat</string>
+    <string name="rank">Xal</string>
+    <string name="popularity">Populyarlıq</string>
+    <string name="scoring_users">Xal Verən İstifadəçilər</string>
+    <string name="list_users">Siyahıdakı İstifadəçilər</string>
+    <string name="synonyms">Sinonimlər</string>
+    <string name="japanese">Yaponca</string>
+    <string name="english">İngiliscə</string>
+    <string name="end_date">Bitiş Tarixi</string>
+    <string name="broadcast">Yayım</string>
+    <string name="duration">Müddət</string>
+    <string name="source">Mənbə</string>
+    <string name="studios">Studiyalar</string>
+    <string name="episodes_count">Bölümlərin Sayı</string>
+    <string name="synopsis">Xülasə</string>
+    <string name="themes">Mövzular</string>
+    <string name="openings">Başlanğıclar</string>
+    <string name="endings">Sonluqlar</string>
+    <string name="recommended">Təklif Edilir</string>
+    <string name="related">Əlaqəli</string>
+    <string name="serialization">Seriallaşdırma</string>
+    <string name="english_title_was_copied">İngilis adı kopyalanmışdır!</string>
+    <string name="japanese_title_was_copied">Yapon adı kopyalanmışdır!</string>
+    <string name="anime_title_was_copied">Anime adı kopyalanmışdır!</string>
+    <string name="manga_title_was_copied">Manga adı kopyalanmışdır!</string>
+
+</resources>

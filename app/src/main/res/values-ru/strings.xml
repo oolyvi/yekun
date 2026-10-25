@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Yekun</string>
+
+    <!--    content descriptions    -->
+    <string name="cd_selected_chat_image">выбранное изображение чата</string>
+    <string name="cd_send_button">кнопка отправки</string>
+    <string name="cd_add_button">кнопка добавления</string>
+    <string name="cd_sent_image">отправленное изображение</string>
+    <string name="cd_media_main_picture">основное изображение медиа</string>
+    <string name="cd_anime_character_picture">изображение аниме-персонажа</string>
+    <string name="cd_anime_character_placeholder">заглушка аниме-персонажа</string>
+    <string name="cd_media_placeholder">заглушка аниме</string>
+    <string name="cd_media_picture">изображение медиа</string>
+    <string name="cd_profile_image">изображение профиля</string>
+    <string name="cd_profile_placeholder">заглушка профиля</string>
+    <string name="cd_id_icon">иконка ID</string>
+    <string name="cd_on_boarding_image">изображение ввода в систему</string>
+    <string name="cd_status_icon">иконка статуса</string>
+    <string name="cd_media_type_icon">иконка типа медиа</string>
+    <string name="cd_mean_score_icon">иконка среднего балла</string>
+    <string name="cd_share_icon">иконка публикации</string>
+    <string name="cd_share_qr">поделиться QR</string>
+    <string name="cd_copy_icon">иконка копирования</string>
+    <string name="cd_close_icon">иконка закрытия</string>
+    <string name="cd_open_in_browser_icon">иконка открытия в браузере</string>
+    <string name="cd_forward_icon">иконка пересылки</string>
+    <string name="cd_title_icon">иконка заголовка</string>
+    <string name="cd_done_icon">иконка выполнено</string>
+    <string name="cd_date_range_icon">иконка диапазона дат</string>
+    <string name="cd_timelapse_icon">иконка таймлапса</string>
+    <string name="cd_scoreboard_icon">иконка таблицы результатов</string>
+    <string name="cd_play_icon">иконка воспроизведения</string>
+    <string name="cd_repeat_icon">иконка повтора</string>
+    <string name="cd_selected_status_icon">иконка выбранного статуса</string>
+    <string name="cd_down_icon">иконка вниз</string>
+    <string name="cd_star_icon">иконка звезды</string>
+    <string name="cd_heart_icon">иконка сердца</string>
+    <string name="cd_language_icon">иконка языка</string>
+    <string name="cd_theme_icon">иконка темы</string>
+    <string name="cd_discord_icon">иконка Discord</string>
+    <string name="cd_instagram_icon">иконка Instagram</string>
+    <string name="cd_code_icon">иконка кода</string>
+    <string name="cd_app_icon">иконка приложения</string>
+    <string name="cd_version_icon">иконка версии</string>
+    <string name="cd_nsfw_icon">иконка NSFW</string>
+    <string name="cd_music_icon">музыкальная иконка</string>
+    <string name="cd_send_feedback_icon">иконка отправки обратной связи</string>
+    <string name="cd_about_icon">иконка О нас</string>
+    <string name="cd_log_out_icon">иконка выхода</string>
+    <string name="cd_login_icon">иконка входа</string>
+    <string name="cd_announcement_icon">иконка объявления</string>
+    <string name="cd_news_icon">иконка новостей</string>
+    <string name="cd_book_icon">иконка книги</string>
+    <string name="cd_cake_icon">иконка торта</string>
+    <string name="cd_person_icon">иконка персоны</string>
+    <string name="cd_location_icon">иконка местоположения</string>
+    <string name="cd_exit_icon">иконка выхода</string>
+    <string name="cd_back_icon">иконка назад</string>
+    <string name="cd_search_icon">иконка поиска</string>
+    <string name="cd_ai_icon">иконка искусственного интеллекта</string>
+    <string name="cd_filter_icon">иконка фильтра</string>
+    <string name="cd_settings_icon">иконка настроек</string>
+    <string name="cd_season_chart_icon">иконка сезонной диаграммы</string>
+    <string name="cd_season_icon">иконка сезона</string>
+    <string name="cd_anime_icon">иконка аниме</string>
+    <string name="cd_manga_icon">иконка манги</string>
+    <string name="cd_bottom_navigation_icon">иконка нижней навигации</string>
+    <string name="cd_refresh_icon">иконка обновления</string>
+    <string name="cd_bin_icon">иконка корзины</string>
+    <string name="cd_people_icon">иконка люди</string>
+
+
+    <!--                   SCREENS                 -->
+
+    <!--    settings    -->
+    <string name="theme_system">Следовать системе</string>
+    <string name="english_native" translatable="false">English</string>
+    <string name="azerbaijani_native" translatable="false">Azərbaycanca</string>
+    <string name="hindi_native" translatable="false">हिंदी</string>
+    <string name="japanese_native" translatable="false">日本語</string>
+    <string name="portuguese_native" translatable="false">Português</string>
+    <string name="spanish_native" translatable="false">Español</string>
+    <string name="russian_native" translatable="false">Русский</string>
+    <string name="turkish_native" translatable="false">Türkçe</string>
+    <string name="korean_native" translatable="false">한국어</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Темная</string>
+    <string name="theme">Тема</string>
+    <string name="language">Язык</string>
+    <string name="coming_soon">Скоро…</string>
+    <string name="nsfw_title">Показать NSFW-контент</string>
+    <string name="nsfw_subtitle">Мне больше 18 лет</string>
+    <string name="sound_on_click">Звук при нажатии</string>
+    <string name="activate_sound_on_ai_send_button_click">Включить звук при нажатии кнопки отправки ИИ</string>
+
+
+    <!--    about   -->
+    <string name="discord" translatable="false">Discord</string>
+    <string name="instagram" translatable="false">Instagram</string>
+    <string name="version">Версия</string>
+    <string name="developed_by">Разработал</string>
+    <string name="oolyvi" translatable="false">oolyvi</string>
+
+
+    <!--    more    -->
+    <string name="profile">Профиль</string>
+    <string name="login">Войти</string>
+    <string name="login_subtitle">Вы можете войти, чтобы использовать все функции</string>
+    <string name="anime_manga_news"><![CDATA[Новости Аниме и Манги]]></string>
+    <string name="myanimelist_announcements">Объявления MyAnimeList</string>
+    <string name="rate_app">Оценить приложение</string>
+    <string name="send_feedback">Отправить отзыв</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О нас</string>
+    <string name="log_out">Выйти</string>
+    <string name="log_out_subtitle">Вы уверены, что хотите выйти?</string>
+    <string name="log_out_description">Вы выйдете из Yekun, а не из MAL</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="credits">Kредиты</string>
+    <string name="some_collaborations">Некоторые сотрудничества</string>
+
+
+    <!--    credits     -->
+    <string name="special_thanks">Особая благодарность!</string>
+    <string name="myanimelist_api_help">Помощь с MyAnimeList API</string>
+    <string name="logo_design">Дизайн логотипа</string>
+    <string name="translations">Переводы</string>
+    <string name="testers">Тестировщики</string>
+    <string name="azerbaijani">Aзербайджанский</string>
+    <string name="hindi">Xинди</string>
+    <string name="japanese_">Японский</string>
+    <string name="korean">Корейский</string>
+    <string name="portuguese_portugal">Португальский (Португалия)</string>
+    <string name="russian_russia">Русский (Россия)</string>
+    <string name="spanish">Испанский</string>
+    <string name="turkish">Tурецкий</string>
+
+
+    <!--    gemini ai   -->
+    <string name="prompt">Подсказка</string>
+    <string name="copied">Скопировано</string>
+    <string name="copy">Копировать</string>
+    <string name="share">Поделиться</string>
+    <string name="gemini_ai" translatable="false">Gemini AI</string>
+    <string name="ai">ИИ</string>
+    <string name="you">Вы</string>
+
+
+    <!--    home    -->
+    <string name="seasonal_chart">Сезонная диаграмма</string>
+    <string name="anime_ranking">Рейтинг аниме</string>
+    <string name="manga_ranking">Рейтинг манги</string>
+    <string name="search">Поиск</string>
+    <string name="top_anime">Топ аниме</string>
+    <string name="top_manga">Топ манги</string>
+    <string name="for_you">Для вас</string>
+
+
+    <!--    edit user list  -->
+    <string name="ok">ОК</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="episodes">Эпизоды</string>
+    <string name="score">Оценка: %1$s</string>
+    <string name="priority">Приоритет: %1$s</string>
+    <string name="rewatching">Повторный просмотр</string>
+    <string name="total_rewatches">Всего повторных просмотров</string>
+    <string name="rewatch_value">Оценка повторного просмотра: %1$s</string>
+    <string name="tags">Теги</string>
+    <string name="notes">Примечания</string>
+    <string name="delete_dialog_title">Вы уверены, что хотите удалить эту запись?</string>
+    <string name="chapters">Главы</string>
+    <string name="volumes">Тома</string>
+    <string name="rereading">Повторное чтение</string>
+    <string name="total_rereads">Всего повторных чтений</string>
+    <string name="reread_value">Оценка повторного чтения: %1$s</string>
+
+
+    <!--    composable     -->
+    <string name="add_to_list">Добавить в список</string>
+    <string name="looks_like_something_went_wrong">Похоже, что-то пошло не так!</string>
+    <string name="there_is_nothing_to_show">Здесь нечего показать!</string>
+    <string name="please_search">Пожалуйста, выполните поиск!</string>
+    <string name="please_try_again">Пожалуйста, попробуйте снова!</string>
+    <string name="music">Музыка</string>
+    <string name="ona">ONA</string>
+    <string name="special">Специальный</string>
+    <string name="movie">Фильм</string>
+    <string name="ova">OVA</string>
+    <string name="tv">ТВ</string>
+    <string name="oel">Oel</string>
+    <string name="manhua">Манхуа</string>
+    <string name="manhwa">Манхва</string>
+    <string name="doujinshi">Додзинси</string>
+    <string name="one_shot">Один выстрел</string>
+    <string name="novel">Роман</string>
+    <string name="login_subtitle_2">Пожалуйста, войдите, чтобы увидеть все функции</string>
+    <string name="save">СОХРАНИТЬ</string>
+    <string name="anime_list">Список аниме</string>
+    <string name="loading">Загрузка…</string>
+    <string name="manga_list">Список манги</string>
+    <string name="more">Еще</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="finished">Завершено</string>
+    <string name="airing">Эфир</string>
+    <string name="not_aired_yet">Еще не вышло</string>
+    <string name="other">Другие</string>
+    <string name="original">Оригинал</string>
+    <string name="_4_koma_manga">4 Кома Манга</string>
+    <string name="web_manga">Веб Манга</string>
+    <string name="digital_manga">Цифровая Манга</string>
+    <string name="light_novel">Легкий Роман</string>
+    <string name="visual_novel">Визуальный Роман</string>
+    <string name="game">Игра</string>
+    <string name="card_game">Карточная игра</string>
+    <string name="book">Книга</string>
+    <string name="picture_book">Книжка с картинками</string>
+    <string name="radio">Радио</string>
+    <string name="low">Низкий</string>
+    <string name="medium">Средний</string>
+    <string name="high">Высокий</string>
+    <string name="very_low">Очень низкий</string>
+    <string name="very_high">Очень высокий</string>
+    <string name="top_all">Лучшие все</string>
+    <string name="top_airings">Лучшие эфиры</string>
+    <string name="top_upcomings">Лучшие предстоящие</string>
+    <string name="top_tvs">Лучшие ТВ</string>
+    <string name="top_ovas">Лучшие OVA</string>
+    <string name="top_movies">Лучшие фильмы</string>
+    <string name="top_specials">Лучшие специальные</string>
+    <string name="top_populars">Лучшие популярные</string>
+    <string name="top_favorites">Лучшие избранные</string>
+    <string name="all">Все</string>
+    <string name="airings">Эфиры</string>
+    <string name="upcomings">Предстоящие</string>
+    <string name="tvs">ТВ</string>
+    <string name="ovas">OVA</string>
+    <string name="movies">Фильмы</string>
+    <string name="specials">Специальные</string>
+    <string name="populars">Популярные</string>
+    <string name="favorites">Избранные</string>
+    <string name="publishing">Публикация</string>
+    <string name="not_published_yet">Еще не опубликовано</string>
+    <string name="top_mangas">Лучшие манги</string>
+    <string name="top_novels">Лучшие романы</string>
+    <string name="top_one_shots">Лучшие одно выстрелы</string>
+    <string name="top_doujins">Лучшие додзинси</string>
+    <string name="top_manhwas">Лучшие манхвы</string>
+    <string name="top_manhuas">Лучшие манхуи</string>
+    <string name="mangas">Манги</string>
+    <string name="novels">Романы</string>
+    <string name="one_shots">Один выстрелы</string>
+    <string name="doujins">Додзинси</string>
+    <string name="manhwas">Манхвы</string>
+    <string name="manhuas">Манхуи</string>
+
+
+    <!--    anime $ manga list  -->
+    <string name="title">Название</string>
+    <string name="last_updated">Последнее обновление</string>
+    <string name="start_date">Дата начала</string>
+
+
+    <!--    onboarding  -->
+    <string name="onboarding_title_1">Добро пожаловать, я рад вас видеть здесь!</string>
+    <string name="onboarding_subtitle_1">Вы можете смотреть и обновлять свой список с помощью Yekun.</string>
+    <string name="onboarding_title_2">Искусственный интеллект</string>
+    <string name="onboarding_subtitle_2">Вы можете улучшить свой опыт с помощью Gemini AI.</string>
+    <string name="onboarding_title_3">Откройте для себя мир аниме и манги</string>
+    <string name="onboarding_subtitle_3">Расслабьтесь, нажмите кнопку и наслаждайтесь приложением ;)</string>
+    <string name="let_s_start">Начнем</string>
+
+
+    <!--    profile     -->
+    <string name="edit">Редактировать</string>
+    <string name="total">Всего</string>
+    <string name="anime_stats">Статистика аниме</string>
+    <string name="manga_stats">Статистика манги</string>
+    <string name="share_mal_profile">Поделиться профилем MAL</string>
+    <string name="watching">Смотрю</string>
+    <string name="completed">Завершено</string>
+    <string name="on_hold">На паузе</string>
+    <string name="dropped">Брошено</string>
+    <string name="plan_to_watch">Планирую посмотреть</string>
+    <string name="days">Дни</string>
+    <string name="mean_score">Средний балл</string>
+    <string name="rewatched">Пересмотрено</string>
+    <string name="anime">Аниме</string>
+    <string name="manga">Манга</string>
+    <string name="reading">Читаю</string>
+    <string name="plan_to_read">Планирую прочитать</string>
+    <string name="rereads">Повторные чтения</string>
+
+
+    <!--    season chart    -->
+    <string name="season">Сезон</string>
+    <string name="year">Год</string>
+    <string name="sort_by">Сортировать по</string>
+    <string name="members_count">Количество участников</string>
+    <string name="score_season_chart">Оценка</string>
+    <string name="winter">Зима</string>
+    <string name="spring">Весна</string>
+    <string name="summer">Лето</string>
+    <string name="fall">Осень</string>
+
+
+    <!--    anime & manga detail    -->
+    <string name="characters">Персонажи</string>
+    <string name="info">Информация</string>
+    <string name="rank">Рейтинг</string>
+    <string name="popularity">Популярность</string>
+    <string name="scoring_users">Оценивающие пользователи</string>
+    <string name="list_users">Список пользователей</string>
+    <string name="synonyms">Синонимы</string>
+    <string name="japanese">Японский</string>
+    <string name="english">Английский</string>
+    <string name="end_date">Дата окончания</string>
+    <string name="broadcast">Трансляция</string>
+    <string name="duration">Продолжительность</string>
+    <string name="source">Источник</string>
+    <string name="studios">Студии</string>
+    <string name="episodes_count">Количество эпизодов</string>
+    <string name="synopsis">Синопсис</string>
+    <string name="themes">Темы</string>
+    <string name="openings">Открывающие</string>
+    <string name="endings">Закрывающие</string>
+    <string name="recommended">Рекомендуемые</string>
+    <string name="related">Связанные</string>
+    <string name="serialization">Сериализация</string>
+    <string name="english_title_was_copied">Английское название было скопировано!</string>
+    <string name="japanese_title_was_copied">Японское название было скопировано!</string>
+    <string name="anime_title_was_copied">Название аниме было скопировано!</string>
+    <string name="manga_title_was_copied">Название манги было скопировано!</string>
+
+</resources>
