@@ -1,4 +1,4 @@
-# Yekun 🎌
+# Yekun
 
 **Yekun** is an unofficial Android client for [MyAnimeList](https://myanimelist.net/) built with Kotlin and Jetpack Compose. It brings anime and manga discovery, rankings, seasonal charts, personal lists, and AI-powered features together in a modern Android application.
 
